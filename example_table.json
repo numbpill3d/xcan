@@ -1,0 +1,21 @@
+{
+  "entries": [
+    {
+      "source_id": "0x123",
+      "target_id": "0x456",
+      "source_is_extended": false,
+      "target_is_extended": false,
+      "default_target_bytes": [0, 0],
+      "signals": [
+        {
+          "src_start_bit": 0,
+          "length": 8,
+          "dest_start_bit": 8,
+          "scale": 1.0,
+          "offset": 0.0,
+          "endian": "little"
+        }
+      ]
+    }
+  ]
+}
